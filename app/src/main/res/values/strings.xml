@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">V世界</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_wei_xin_detail">WeiXinDetailActivity</string>
+</resources>
